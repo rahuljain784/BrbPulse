@@ -19,6 +19,7 @@
     
     NSLog(@"hello just modified xcode");
     NSLog(@"another nslog added");
+    NSLog(@"showed demo to vinay");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
