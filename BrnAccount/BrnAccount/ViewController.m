@@ -18,6 +18,7 @@
     [super viewDidLoad];
     
     NSLog(@"hello just modified xcode");
+    NSLog(@"another nslog added");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
