@@ -21,8 +21,11 @@
                                 <rect key="frame" x="130" y="315" width="46" height="30"/>
                                 <state key="normal" title="Button"/>
                             </button>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="1912472.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="R98-it-bfX">
+                                <rect key="frame" x="150" y="74" width="269" height="186"/>
+                            </imageView>
                         </subviews>
-                        <color key="backgroundColor" red="1" green="0.20392158630000001" blue="0.086274512110000007" alpha="1" colorSpace="deviceRGB"/>
+                        <color key="backgroundColor" red="0.94098288864317026" green="0.98646539449691772" blue="0.23860505770974982" alpha="1" colorSpace="calibratedRGB"/>
                     </view>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
@@ -30,4 +33,7 @@
             <point key="canvasLocation" x="260" y="279"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="1912472.jpg" width="1920" height="1200"/>
+    </resources>
 </document>
