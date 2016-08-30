@@ -22,7 +22,7 @@
                                 <state key="normal" title="Button"/>
                             </button>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="1912472.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="R98-it-bfX">
-                                <rect key="frame" x="150" y="74" width="269" height="186"/>
+                                <rect key="frame" x="87" y="61" width="269" height="186"/>
                             </imageView>
                         </subviews>
                         <color key="backgroundColor" red="0.94098288864317026" green="0.98646539449691772" blue="0.23860505770974982" alpha="1" colorSpace="calibratedRGB"/>
